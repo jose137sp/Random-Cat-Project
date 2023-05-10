@@ -71,6 +71,9 @@ h1 {
     #image-container {
         width: 90%;
         height: 300px;
+        .photos-container {
+            margin-bottom: 70px;
+        }
     }
 
     #cat-image {
